@@ -12,4 +12,4 @@ intuito de ilustrar o funcionamento e aplicação deste método, foi realizado t
 com problema real, por meio da implementação deste método no ambiente integral de
 desenvolvimento Matlab
 
-![](https://github.com/jacksonn455/Simulacao/blob/master/images.png)
+![](https://github.com/jacksonn455/Processamento-de-imagem/blob/master/img.png)
